@@ -102,8 +102,3 @@ BERT-based intent classifier
 spaCy NER for drug names
 FastText keyword embeddings
 
-=> Connect to a real LLM
-
-Replace the simulated response with OpenAI:
-# Replace simulated response with an API call
-api_response = llm_client.chat(query)
